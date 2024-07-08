@@ -232,7 +232,7 @@ footer div:nth-child(2) p{
     .nav_bar{
         height: 50px;
         background-color: #36444F;
-     
+         display: block;
     }
     .nav_bar div{
         width: 700px;
